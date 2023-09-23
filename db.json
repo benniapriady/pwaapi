@@ -1,6 +1,5 @@
 {
-"products":
-[
+"products":[
   {
   "id": 1,
   "name": "Fat-tailed dunnart",
@@ -81,6 +80,5 @@
   "id": 20,
   "name": "Cat, tiger",
   "category": "Red"
-}
-]
+}]
 }
