@@ -1,0 +1,86 @@
+{
+"products"
+[
+  {
+  "id": 1,
+  "name": "Fat-tailed dunnart",
+  "category": "Purple"
+}, {
+  "id": 2,
+  "name": "Canada goose",
+  "category": "Crimson"
+}, {
+  "id": 3,
+  "name": "Dove, little brown",
+  "category": "Puce"
+}, {
+  "id": 4,
+  "name": "Guanaco",
+  "category": "Maroon"
+}, {
+  "id": 5,
+  "name": "Anteater, giant",
+  "category": "Fuscia"
+}, {
+  "id": 6,
+  "name": "Hawk, galapagos",
+  "category": "Orange"
+}, {
+  "id": 7,
+  "name": "Hornbill, red-billed",
+  "category": "Turquoise"
+}, {
+  "id": 8,
+  "name": "Capybara",
+  "category": "Puce"
+}, {
+  "id": 9,
+  "name": "North American red fox",
+  "category": "Puce"
+}, {
+  "id": 10,
+  "name": "Agama lizard (unidentified)",
+  "category": "Blue"
+}, {
+  "id": 11,
+  "name": "Marten, american",
+  "category": "Indigo"
+}, {
+  "id": 12,
+  "name": "Bird (unidentified)",
+  "category": "Teal"
+}, {
+  "id": 13,
+  "name": "Trumpeter swan",
+  "category": "Red"
+}, {
+  "id": 14,
+  "name": "Turkey, common",
+  "category": "Fuscia"
+}, {
+  "id": 15,
+  "name": "Lion, california sea",
+  "category": "Red"
+}, {
+  "id": 16,
+  "name": "Vulture, lappet-faced",
+  "category": "Maroon"
+}, {
+  "id": 17,
+  "name": "Turtle, long-necked",
+  "category": "Fuscia"
+}, {
+  "id": 18,
+  "name": "Jungle cat",
+  "category": "Maroon"
+}, {
+  "id": 19,
+  "name": "Sable antelope",
+  "category": "Pink"
+}, {
+  "id": 20,
+  "name": "Cat, tiger",
+  "category": "Red"
+}
+]
+}
